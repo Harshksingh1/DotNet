@@ -1,0 +1,14 @@
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\bin\Debug\net10.0\ObjectOrientedApp.exe
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\bin\Debug\net10.0\ObjectOrientedApp.deps.json
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\bin\Debug\net10.0\ObjectOrientedApp.runtimeconfig.json
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\bin\Debug\net10.0\ObjectOrientedApp.dll
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\bin\Debug\net10.0\ObjectOrientedApp.pdb
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\ObjectOrientedApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\ObjectOrientedApp.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\ObjectOrientedApp.AssemblyInfo.cs
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\ObjectOrientedApp.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\ObjectOrientedApp.dll
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\refint\ObjectOrientedApp.dll
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\ObjectOrientedApp.pdb
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\ObjectOrientedApp.genruntimeconfig.cache
+C:\Users\harsh\Desktop\oops\ObjectOrientedApp\obj\Debug\net10.0\ref\ObjectOrientedApp.dll

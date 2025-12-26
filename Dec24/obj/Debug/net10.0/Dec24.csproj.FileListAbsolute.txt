@@ -1,0 +1,14 @@
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\Dec24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\Dec24.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\Dec24.AssemblyInfo.cs
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\Dec24.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\oops\Dec24\bin\Debug\net10.0\Dec24.exe
+C:\Users\harsh\Desktop\oops\Dec24\bin\Debug\net10.0\Dec24.deps.json
+C:\Users\harsh\Desktop\oops\Dec24\bin\Debug\net10.0\Dec24.runtimeconfig.json
+C:\Users\harsh\Desktop\oops\Dec24\bin\Debug\net10.0\Dec24.dll
+C:\Users\harsh\Desktop\oops\Dec24\bin\Debug\net10.0\Dec24.pdb
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\Dec24.dll
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\refint\Dec24.dll
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\Dec24.pdb
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\Dec24.genruntimeconfig.cache
+C:\Users\harsh\Desktop\oops\Dec24\obj\Debug\net10.0\ref\Dec24.dll
