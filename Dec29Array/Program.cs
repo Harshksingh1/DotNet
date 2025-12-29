@@ -183,6 +183,63 @@ class Program
     //         Console.Write(arr[i]+" ");
     //     }
      //=========================Employee.cs==================================
+     Employee employee1=new Employee(){ID=30,Name="Harsh"};
+     Employee employee2=new Employee(){ID=80,Name="Vivek"};
+     Employee employee3=new Employee(){ID=50,Name="Arsh"};
+     Employee employee4=new Employee(){ID=40,Name="Vansh"};
+     Employee employee5=new Employee(){ID=10,Name="Shubham"};
+     Employee[] employeeList=new Employee[5];
+     employeeList[0]=employee1;
+     employeeList[1]=employee2;
+     employeeList[2]=employee3;
+     employeeList[3]=employee4;
+     employeeList[4]=employee5;
+
+     Console.WriteLine("Before sorting: ");
+     foreach(Employee e in employeeList)
+        {
+            Console.WriteLine(e);
+        }
+        Array.Sort(employeeList);
+        Console.WriteLine("After sorting: ");
+     foreach(Employee e in employeeList)
+        {
+            Console.WriteLine(e);
+        }
+
+      Console.WriteLine("\n\n\n");
+     Program program=new Program();
+     Employee employee =new Employee
+     {
+         ID=90,
+         Name="HArsh Singh"
+     };
+     program.PassObject(employee);
+     Employee employee6=program.ReturnObject();
+     Console.WriteLine(employee6);
+     Console.WriteLine("\n\n");
+     program.PassArrayObject(employeeList);
      
+    }
+    public void PassObject(Employee employee)
+    {
+        Console.WriteLine(employee);
+    }
+    public Employee ReturnObject()
+    {
+        Employee employee=new Employee
+        {
+            ID=120,
+            Name="Suresh"
+        };
+        return employee;
+    }
+
+    public void PassArrayObject(Employee[] employee)
+    {
+        foreach(Employee e in employee)
+        {
+            Console.WriteLine(e);
+        }
     }
 }
