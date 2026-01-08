@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections;
-using System.Text.Json.Serialization.Metadata;
-using Microsoft.VisualBasic;
-internal class Program
-{
-    private static void Main(string[] args)
-    {
+﻿// using System;
+// using System.Collections;
+// using System.Text.Json.Serialization.Metadata;
+// using Microsoft.VisualBasic;
+// internal class Program
+// {
+//     private static void Main(string[] args)
+//     {
         //===========================Hashtable=========================================
         // Hashtable hashtable=new Hashtable();
         // hashtable.Add(100,"Rajesh");
@@ -199,11 +199,11 @@ internal class Program
         //     Console.WriteLine("Queue item: " + item);
         // }
        
-       MyCollection obj=new MyCollection();
-       foreach(int i in obj)
-        {
-            Console.WriteLine(i);
-        }
+//        MyCollection obj=new MyCollection();
+//        foreach(int i in obj)
+//         {
+//             Console.WriteLine(i);
+//         }
 
-    }
-}
+//     }
+// }

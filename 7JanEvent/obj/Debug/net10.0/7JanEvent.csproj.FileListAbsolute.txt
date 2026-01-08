@@ -1,0 +1,15 @@
+C:\Users\harsh\Desktop\oops\7JanEvent\bin\Debug\net10.0\7JanEvent.exe
+C:\Users\harsh\Desktop\oops\7JanEvent\bin\Debug\net10.0\7JanEvent.deps.json
+C:\Users\harsh\Desktop\oops\7JanEvent\bin\Debug\net10.0\7JanEvent.runtimeconfig.json
+C:\Users\harsh\Desktop\oops\7JanEvent\bin\Debug\net10.0\7JanEvent.dll
+C:\Users\harsh\Desktop\oops\7JanEvent\bin\Debug\net10.0\7JanEvent.pdb
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\7JanEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\7JanEvent.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\7JanEvent.AssemblyInfo.cs
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\7JanEvent.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\7JanEvent.sourcelink.json
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\7JanEvent.dll
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\refint\7JanEvent.dll
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\7JanEvent.pdb
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\7JanEvent.genruntimeconfig.cache
+C:\Users\harsh\Desktop\oops\7JanEvent\obj\Debug\net10.0\ref\7JanEvent.dll
