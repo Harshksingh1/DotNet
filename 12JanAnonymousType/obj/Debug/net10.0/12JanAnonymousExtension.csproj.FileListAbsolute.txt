@@ -1,0 +1,15 @@
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\bin\Debug\net10.0\12JanAnonymousExtension.exe
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\bin\Debug\net10.0\12JanAnonymousExtension.deps.json
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\bin\Debug\net10.0\12JanAnonymousExtension.runtimeconfig.json
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\bin\Debug\net10.0\12JanAnonymousExtension.dll
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\bin\Debug\net10.0\12JanAnonymousExtension.pdb
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\12JanAnonymousExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\12JanAnonymousExtension.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\12JanAnonymousExtension.AssemblyInfo.cs
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\12JanAnonymousExtension.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\12JanAnonymousExtension.sourcelink.json
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\12JanAnonymousExtension.dll
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\refint\12JanAnonymousExtension.dll
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\12JanAnonymousExtension.pdb
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\12JanAnonymousExtension.genruntimeconfig.cache
+C:\Users\harsh\Desktop\DotNet\12JanAnonymousType\obj\Debug\net10.0\ref\12JanAnonymousExtension.dll
