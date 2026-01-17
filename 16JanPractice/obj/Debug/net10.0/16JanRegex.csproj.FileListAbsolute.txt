@@ -1,0 +1,15 @@
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\16JanRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\16JanRegex.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\16JanRegex.AssemblyInfo.cs
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\16JanRegex.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\16JanRegex.sourcelink.json
+C:\Users\harsh\Desktop\DotNet\16janRegex\bin\Debug\net10.0\16JanRegex.exe
+C:\Users\harsh\Desktop\DotNet\16janRegex\bin\Debug\net10.0\16JanRegex.deps.json
+C:\Users\harsh\Desktop\DotNet\16janRegex\bin\Debug\net10.0\16JanRegex.runtimeconfig.json
+C:\Users\harsh\Desktop\DotNet\16janRegex\bin\Debug\net10.0\16JanRegex.dll
+C:\Users\harsh\Desktop\DotNet\16janRegex\bin\Debug\net10.0\16JanRegex.pdb
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\16JanRegex.dll
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\refint\16JanRegex.dll
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\16JanRegex.pdb
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\16JanRegex.genruntimeconfig.cache
+C:\Users\harsh\Desktop\DotNet\16janRegex\obj\Debug\net10.0\ref\16JanRegex.dll
